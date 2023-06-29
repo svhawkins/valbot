@@ -1,0 +1,227 @@
+,Name,Is_slang,Category_1,Category_2
+0,You'll do,0,Rejection,
+1,Eating my feelings,0,Rejection,
+2,How about never?,0,Rejection,
+3,You have a great personality,0,Rejection,
+4,U have a great personality,1,Rejection,
+5,You're the meh of my dreams,0,Rejection,
+6,Ur the meh of my dreams,1,Rejection,
+7,Dead inside,0,Rejection,
+8,Yeah... no.,0,Rejection,
+9,Love you,0,Romantic,
+10,Love U,1,Romantic,
+11,Luv you,1,Romantic,
+12,Luv U,1,Romantic,
+13,Love,0,Romantic,
+14,Luv,1,Romantic,
+15,Peace,0,Friendly,
+16,Goals,0,Friendly,
+17,Nice,0,Friendly,
+18,You & me,0,Romantic,Friendly
+19,U & me,1,Romantic,Friendly
+20,You and me,0,Romantic,Friendly
+21,U & me,1,Romantic,Friendly
+22,Lol,0,Friendly,Rejection
+23,Cutie,0,Romantic,Friendly
+24,Dream,0,Romantic,Friendly
+25,Only you,0,Romantic,
+26,Only U,1,Romantic,
+27,Kiss me,0,Romantic,
+28,Laugh,0,Romantic,Friendly
+29,Hug me,0,Romantic,Friendly
+30,You're awesome,0,Romantic,Friendly
+31,Ur awesome,1,Romantic,Friendly
+32,Real love,0,Romantic,
+33,XOXO,1,Romantic,
+34,You rock,0,Romantic,Friendly
+35,U rock,1,Romantic,Friendly
+36,BFF,1,Friendly,
+37,TTYL,1,Friendly,Romantic
+38,Let's hang,0,Friendly,Romantic
+39,Cool,0,Friendly,
+40,My love,0,Romantic,
+41,My luv,1,Romantic,
+42,Bae,1,Romantic,
+43,Bestie,1,Friendly,
+44,Smile,0,Friendly,
+45,Hugs,0,Friendly,
+46,Forever,0,Friendly,Romantic
+47,Date night,0,Romantic,
+48,Date nite,1,Romantic,
+49,You're so cool,0,Friendly,Romantic
+50,Ur so cool,1,Friendly,Romantic
+51,You're great,0,Friendly,Romantic
+52,Ur great,1,Friendly,Romantic
+53,Super cute,0,Romantic,
+54,Be mine,0,Romantic,
+55,You're the best,0,Friendly,Romantic
+56,Ur the best,1,Friendly,Romantic
+57,Youda best,1,Friendly,Romantic
+58,Uda best,1,Friendly,Romantic
+59,Hugs and kisses,0,Romantic,
+60,I love you,0,Romantic,
+61,I love U,1,Romantic,
+62,I luv you,1,Romantic,
+63,I luv U,1,Romantic,
+64,Rock star,0,Friendly,
+65,Sweet,0,Friendly,
+66,Gal pal,0,Friendly,
+67,Miss you,0,Friendly,Romantic
+68,Miss U,1,Friendly,Romantic
+69,GOAT,1,Friendly,
+70,Way to go,0,Friendly,
+71,Way 2 go,1,Friendly,
+72,Proud of you,0,Friendly,Romantic
+73,Proud of U,1,Friendly,Romantic
+74,High five,0,Friendly,
+75,Big fan,0,Friendly,Romantic
+76,I'm yours,0,Friendly,Romantic
+77,I'm urs,1,Friendly,Romantic
+78,My girl,0,Romantic,
+79,Angel,0,Friendly,Romantic
+80,Crazy 4 U,1,Romantic,
+81,Crazy for U,1,Romantic,
+82,Crazy 4 you,1,Romantic,
+83,Crazy for you,0,Romantic,
+84,Heart throb,0,Romantic,
+85,QT Pie,1,Romantic,
+86,Cutiepie,0,Romantic,
+87,You're mine,0,Romantic,
+88,UR mine,1,Romantic,
+89,My boo,0,Romantic,
+90,Me + you,1,Friendly,Romantic
+91,Me + U,1,Friendly,Romantic
+92,Puppy love,0,Romantic,
+93,Purrfect,0,Friendly,Romantic
+94,Amore,0,Romantic,
+95,Romeo,0,Romantic,
+96,Juliet,0,Romantic,
+97,Let's do lunch,0,Friendly,Romantic
+98,Let's do dinner,0,Friendly,Romantic
+99,As if,0,Rejection,
+100,Let it be,0,Rejection,
+101,Walk on by,0,Rejection,
+102,Let it go,0,Rejection,
+103,Giggle,0,Friendly,
+104,My hero,0,Friendly,Romantic
+105,My heroine,0,Friendly,Romantic
+106,Soul Mate,0,Romantic,
+107,Sweet pea,0,Friendly,Romantic
+108,You're cute,0,Romantic,
+109,UR cute,1,Romantic,
+110,You're kind,0,Friendly,Romantic
+111,UR kind,1,Friendly,Romantic
+112,Crush on you,0,Romantic,
+113,Crush on U,1,Romantic,
+114,Pick me,0,Romantic,
+115,Flirt,0,Romantic,
+116,I do,0,Romantic,
+117,Love birds,0,Romantic,
+118,Love bug,0,Romantic,
+119,Marry me,0,Romantic,
+120,Ooo la la,0,Romantic,
+121,True love,0,Romantic,
+122,Wink wink,0,Romantic,
+123,Lover boy,0,Romantic,
+124,You're hot,0,Romantic,
+125,Ur hot,1,Romantic,
+126,Dream big,0,Romantic,
+127,Dream small,0,Rejection,
+128,On fleek,0,Friendly,Romantic
+129,Hot dawg,0,Romantic,
+130,Je t'aime,0,Romantic,
+131,Je te deteste,0,Rejection,
+132,Te quiero,0,Romantic,
+133,TQ,1,Romantic,
+134,Te odio,0,Rejection,
+135,Ich liebe dich,0,Romantic,
+136,Ich hasse dich,0,Rejection,
+137,Ti voglio bene,0,Romantic,
+138,Ti voglio tanto bene,0,Romantic,
+139,TVB,1,Romantic,
+140,TVTB,1,Romantic,
+141,Ti odio,0,Rejection,
+142,You shine,0,Friendly,Romantic
+143,U shine,1,Friendly,Romantic
+144,You gleam,0,Friendly,Romantic
+145,U gleam,1,Friendly,Romantic
+146,My pal,0,Friendly,
+147,Call me,0,Romantic,
+148,Email me,0,Romantic,
+149,Fax me,0,Romantic,
+150,Page me,0,Romantic,
+151,Tweet me,0,Romantic,
+152,Text me,0,Romantic,
+153,Txt me,1,Romantic,
+154,At last,0,Romantic,
+155,Happy together,0,Romantic,
+156,Baby love,0,Romantic,
+157,Dig me,0,Romantic,
+158,Dig you,0,Romantic,
+159,Dig U,1,Romantic,
+160,Occupy my <3,1,Romantic,
+161,Occupy my heart,1,Romantic,
+162,I <3 you,1,Romantic,
+163,I <3 U,1,Romantic,
+164,Why not,0,,
+165,Groovy,0,Friendly,
+166,You're a tiger,0,Friendly,Romantic
+167,Ur a tiger,1,Friendly,Romantic
+168,You're a catch,0,Romantic,
+169,Ur a catch,1,Romantic,
+170,1-800 cupid,0,Romantic,
+171,Cupid,0,Romantic,
+172,Wicked cool,0,Friendly,
+173,Melt my <3,1,Romantic,
+174,Melt my heart,0,Romantic,
+175,Cool cat,0,Friendly,
+176,Home run,0,Friendly,Romantic
+177,Fit for love,0,Romantic,
+178,3 wishes,0,Friendly,Romantic
+179,Look good,0,Friendly,Romantic
+180,Tres chic,0,Friendly,
+181,Tres bien,0,Romantic,
+182,Tres mal,0,Rejection,
+183,Moon beam,0,Friendly,
+184,Star dust,0,Friendly,
+185,Rising star,0,Friendly,
+186,Be my icon,0,Friendly,Romantic
+187,All yours,0,Romantic,
+188,Be happy,0,Friendly,Romantic
+189,Be sad,0,Rejection,
+190,Cheeky boy,0,Romantic,
+191,Cheeky girl,0,Romantic,
+192,Date me,0,Romantic,
+193,Dream on,0,Rejection,
+194,Great guy,0,Friendly,Romantic
+195,Great gal,0,Friendly,Romantic
+196,Hot lips,0,Romantic,
+197,Let's party,0,Friendly,Romantic
+198,Kill me,0,Rejection,
+199,Hold hands,0,Romantic,
+200,Say yes,0,Romantic,
+201,Say no,0,Rejection,
+202,Divorce me,0,Rejection,
+203,2000 hugs,0,Romantic,
+204,2000 kisses,0,Romantic,
+205,0 hugs,0,Rejection,
+206,0 kisses,0,Rejection,
+207,Yum yum,0,Romantic,
+208,Go for it,0,Friendly,Romantic
+209,Fear less,0,Friendly,
+210,Good job,0,Friendly,
+211,Don't even bother,0,Rejection,
+212,Forget it,0,Rejection,
+213,Not my type,0,Rejection,
+214,My type,0,Romantic,
+215,F*ck yes,0,Romantic,
+216,F*ck no,0,Rejection,
+217,Sorry,0,Rejection,
+218,I hate you,0,Rejection
+219,I hate U,1,Rejection
+220,I H8 you,1,Rejection
+221,I H8 U,1,Rejection
+222,You're awful,0,Rejection
+223,UR awful,1,Rejection
+224,Only a fool would love you,0,Rejection
+225,Light of my life,0,Romantic,Friendly
