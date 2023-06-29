@@ -5,6 +5,8 @@ made for UML ACM valentines day 2023 programming contest
 given desired attributes (numeric) will generate a valentine by randomly selecting a valentine from
 the dataframe that fits the given attributes
 
+demonstration of valbot here: https://youtu.be/WK_pUsdr4jY
+
 ## files
 - valbot.py: python script to run the valentine generating discord bot
 - valgen.py: python script to generate a valentine in the command line (uses roughly the same options as the bot)
