@@ -6,9 +6,9 @@ given desired attributes (numeric) will generate a valentine by randomly selecti
 the dataframe that fits the given attributes
 
 ## files
-valbot.py: python script to run the valentine generating discord bot
-valgen.py: python script to generate a valentine in the command line (uses roughly the same options as the bot)
-valentines.txt: .txt file storing valentines and their attributes. used in the dataframe for valentine generation.
+- valbot.py: python script to run the valentine generating discord bot
+- valgen.py: python script to generate a valentine in the command line (uses roughly the same options as the bot)
+- valentines.txt: .txt file storing valentines and their attributes. used in the dataframe for valentine generation.
 
 ## further improvements
 1. make it generate an image instead of text
